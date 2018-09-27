@@ -1,0 +1,20 @@
+{
+    "name": "example/high-ip",
+    "authors": [
+        {
+            "name": "Yuriy",
+            "email": "tanateros_pzas@bigmir.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "High\\": "src/"
+        }
+    },
+    "require": {
+        "php": "~7.0",
+        "predis/predis": "^1.1",
+        "sinergi/browser-detector": "^6.1",
+        "monolog/monolog": "^1.23"
+    }
+}
