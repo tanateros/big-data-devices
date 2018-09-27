@@ -10,9 +10,9 @@ Install
 
 Test load
 ==
-For manual testing speed for update of rows you can open your host with page /installDump.php and open page /index.php and doing a lot of update in index.php.
+For manual testing speed for update of rows you can open your host with page `/installDump.php` and open page `/index.php` and doing a lot of update in `/index.php`.
 
-Database dump with data has over 300k devices and ~1kk rows.
+Database dump with data has *over 300k devices* and *~1kk rows*.
 
 Save new dump:
 
