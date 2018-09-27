@@ -1,6 +1,6 @@
 Install
 ==
-- Save files
+- Copy project files
 
 - Prepare your `config.ini` file.
 
